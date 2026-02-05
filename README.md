@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Patidar.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patidar-dheeraj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="patidar-dheeraj-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=patidar-dheeraj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="patidar-dheeraj-dev" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce ReactJS Project Basic**
 
